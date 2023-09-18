@@ -1,0 +1,11 @@
+Project Overview:
+
+
+
+Title: Student Grade Calculator
+
+
+
+Description:
+
+The Student Grade Calculator is a Java application designed to assist users in calculating the average percentage and grade for a student based on their performance in various subjects. Users are prompted to input the number of subjects and the corresponding marks, and the application calculates the average percentage and assigns a grade based on the provided data.
